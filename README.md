@@ -10,9 +10,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-[//]: # (![Python]&#40;https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&#41;&nbsp;)
-
-[//]: # (![JavaScript]&#40;https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&#41;&nbsp;)
 ![Java](https://img.shields.io/badge/-Java-383B3C?style=flat&logo=Java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-383B3C?style=flat&logo=Kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-383B3C?style=flat&logo=Android)&nbsp;
@@ -48,44 +45,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
-[//]: # (<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>)
-
 <a href="https://linkedin.com/in/Bivizul"><img src="https://img.shields.io/badge/-Vladislav%20Belyaev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mamochapa@gmail.com"><img src="https://img.shields.io/badge/-mamochapa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://telegram.org/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://instagram.com/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-[//]: # (<a href="https://www.pinterest.ca/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>)
-[//]: # (<a href="https://www.behance.net/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-1769FF?style=flat&logo=Behance&logoColor=white"/></a>)
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Bivizul/Bivizul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
