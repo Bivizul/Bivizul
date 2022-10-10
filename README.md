@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vladislav-belyaev-19a17b231/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mamochapa@gmail.com"><img src="https://img.shields.io/badge/-mamochapa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mamochapa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/Bivizul"><img src="https://img.shields.io/badge/-Telegram-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://facebook.com/Bivizul"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
