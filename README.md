@@ -45,9 +45,8 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/Bivizul"><img src="https://img.shields.io/badge/-Vladislav%20Belyaev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Bivizul"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mamochapa@gmail.com"><img src="https://img.shields.io/badge/-mamochapa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://telegram.org/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://instagram.com/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Bivizul"><img src="https://img.shields.io/badge/-@Bivizul-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://t.me/Bivizul"><img src="https://img.shields.io/badge/-Telegram-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://facebook.com/Bivizul"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
